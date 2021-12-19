@@ -1,2 +1,2 @@
 # Parkinson-s-Disease-Detection
-Used various classification algorithms in Machine learning to determine the best model by fitting a dataet of 195 patients with various attributs that help in determining whether a person suffers from Parkinson's disease or not.
+Used various Classification algorithms in Machine Learning and determine the best model by fitting a dataset of 195 patients with various vocal attributes that help in determining whether a person suffers from Parkinson's disease or not.
